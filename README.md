@@ -41,9 +41,9 @@ Tracking progress toward scaling the studio's framework to 50 businesses.
 ### **Live Showcases**
 Explore some of the recent architectures piloted by the studio:
 
-* [**Espaço do Lar**](https://esp-do-lar-construcao.vercel.app/) — Construction & Design focus.
-* [**Ambientes Saudáveis**](https://ambientes-saudaveis.vercel.app/) — Wellness & Clean UI.
-* [**Portfolio v10**](https://portfolio-10.vercel.app/) — Experimental Design.
+* [**Especialistas do Lar - Construção**](https://esp-do-lar-construcao.vercel.app/) — Construction & Design focus.
+* [**Especialistas do Lar - Respira**](https://ambientes-saudaveis.vercel.app/) — Wellness & Clean UI.
+* [**Portfolio**](https://portfolio-10.vercel.app/) — Portfolio v1.0.
 
 ---
 
